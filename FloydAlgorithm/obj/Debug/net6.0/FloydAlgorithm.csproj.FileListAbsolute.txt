@@ -1,0 +1,15 @@
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\obj\Debug\net6.0\FloydAlgorithm.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\obj\Debug\net6.0\FloydAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\obj\Debug\net6.0\FloydAlgorithm.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\obj\Debug\net6.0\FloydAlgorithm.AssemblyInfo.cs
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\obj\Debug\net6.0\FloydAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\bin\Debug\net6.0\FloydAlgorithm.exe
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\bin\Debug\net6.0\FloydAlgorithm.deps.json
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\bin\Debug\net6.0\FloydAlgorithm.runtimeconfig.json
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\bin\Debug\net6.0\FloydAlgorithm.dll
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\bin\Debug\net6.0\FloydAlgorithm.pdb
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\obj\Debug\net6.0\FloydAlgorithm.dll
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\obj\Debug\net6.0\refint\FloydAlgorithm.dll
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\obj\Debug\net6.0\FloydAlgorithm.pdb
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\obj\Debug\net6.0\FloydAlgorithm.genruntimeconfig.cache
+C:\Users\MELTUser01\Downloads\prac-09\FloydAlgorithm\obj\Debug\net6.0\ref\FloydAlgorithm.dll

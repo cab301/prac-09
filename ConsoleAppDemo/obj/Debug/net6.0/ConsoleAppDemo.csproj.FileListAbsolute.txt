@@ -1,0 +1,15 @@
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\bin\Debug\net6.0\ConsoleAppDemo.exe
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\bin\Debug\net6.0\ConsoleAppDemo.deps.json
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\bin\Debug\net6.0\ConsoleAppDemo.runtimeconfig.json
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\bin\Debug\net6.0\ConsoleAppDemo.dll
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\bin\Debug\net6.0\ConsoleAppDemo.pdb
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.AssemblyInfo.cs
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.dll
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\obj\Debug\net6.0\refint\ConsoleAppDemo.dll
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.pdb
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\obj\Debug\net6.0\ConsoleAppDemo.genruntimeconfig.cache
+C:\Users\MELTUser01\Downloads\prac-09\ConsoleAppDemo\obj\Debug\net6.0\ref\ConsoleAppDemo.dll
