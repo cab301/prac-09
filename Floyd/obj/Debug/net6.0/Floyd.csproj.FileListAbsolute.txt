@@ -1,0 +1,15 @@
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\bin\Debug\net6.0\Floyd.exe
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\bin\Debug\net6.0\Floyd.deps.json
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\bin\Debug\net6.0\Floyd.runtimeconfig.json
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\bin\Debug\net6.0\Floyd.dll
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\bin\Debug\net6.0\Floyd.pdb
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\obj\Debug\net6.0\Floyd.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\obj\Debug\net6.0\Floyd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\obj\Debug\net6.0\Floyd.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\obj\Debug\net6.0\Floyd.AssemblyInfo.cs
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\obj\Debug\net6.0\Floyd.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\obj\Debug\net6.0\Floyd.dll
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\obj\Debug\net6.0\refint\Floyd.dll
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\obj\Debug\net6.0\Floyd.pdb
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\obj\Debug\net6.0\Floyd.genruntimeconfig.cache
+C:\Users\MELTUser01\Downloads\prac-09\Floyd\obj\Debug\net6.0\ref\Floyd.dll
